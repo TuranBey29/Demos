@@ -26,5 +26,21 @@ namespace Demos.Controllers
         {
             return View();
         }
+        public ActionResult Demo4()
+        {
+            return View();
+        }
+        public ActionResult Demo5()
+        {
+            return View();
+        }
+        public ActionResult Demo6()
+        {
+            return View();
+        }
+        public ActionResult Demo7()
+        {
+            return View();
+        }
     }
 }
